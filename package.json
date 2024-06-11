@@ -36,7 +36,7 @@
     "devDependencies": {
         "browser-sync": "3.0.2",
         "del": "^5.0.0",
-        "gulp": "4.0.2",
+        "gulp": "5.0.0",
         "merge-stream": "2.0.0"
     }
 }
